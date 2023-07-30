@@ -1,0 +1,40 @@
+{
+  "name": "monodark",
+  "displayName": "SunSplash monodark",
+  "description": "Nice and pretty monocolor theme dark version",
+  "publisher": "RSanttos",
+  "ID": "Rsanttos",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes",
+    "Extension Packs",
+    "Other"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "monodark",
+    "dark theme",
+    "rsanttos",
+    "Sun Splash",
+    "Dark Themes"
+  ],
+  "license": "MIT",
+  "icon": "./assets/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vricardo5/monodark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "monodark v1.0.0",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monodark-color-theme.json"
+      }
+    ]
+  }
+}
