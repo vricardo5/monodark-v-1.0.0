@@ -1,5 +1,5 @@
 {
-  "name": "monodark",
+  "name": "sunsplash-monodark",
   "displayName": "SunSplash monodark",
   "description": "Nice and pretty monocolor theme dark version",
   "publisher": "RSanttos",
@@ -23,7 +23,7 @@
     "Dark Themes"
   ],
   "license": "MIT",
-  "icon": "./assets/icon.png",
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/vricardo5/monodark"
